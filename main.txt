@@ -21,3 +21,5 @@ Jans　は J　SAJI A ANNA N NAKAMURA からできている A
 7/7 1944年の今日はサイパン島の日本軍守備隊が玉砕した日 y
 
 もう七夕なんて言ってる場合じゃない　A
+
+localhostでhtmlが表示できなくなって辛み t
